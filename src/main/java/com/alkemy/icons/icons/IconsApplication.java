@@ -1,13 +1,13 @@
-package com.alkemy.disney.disney;
+package com.alkemy.icons.icons;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DisneyApplication {
+public class IconsApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DisneyApplication.class, args);
+		SpringApplication.run(IconsApplication.class, args);
 	}
 
 }

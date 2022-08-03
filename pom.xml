@@ -8,10 +8,10 @@
 		<version>2.7.2</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.alkemy.disney</groupId>
-	<artifactId>disney</artifactId>
+	<groupId>com.alkemy.icons</groupId>
+	<artifactId>icons</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>disney</name>
+	<name>icons</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>18</java.version>
